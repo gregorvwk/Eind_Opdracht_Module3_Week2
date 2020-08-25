@@ -1,0 +1,102 @@
+main {
+  width: 200px;
+  max-height: 50px;
+  padding: 20px;
+  background: lightgray;
+  border-radius: 20px;
+  text-align: center;
+  -webkit-box-shadow: 5px 5px 10px 5px gray;
+          box-shadow: 5px 5px 10px 5px gray;
+  margin: 0 auto;
+  overflow: hidden;
+  -webkit-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+
+ul {
+  list-style-type: none;
+  margin-right: 35px;
+  margin-top: 20px;
+}
+
+img {
+  width: 50px;
+  cursor: pointer;
+}
+
+.images {
+  -webkit-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+  overflow: visible 500ms;
+  max-height: 300px;
+}
+
+#blue {
+  color: blue;
+  cursor: pointer;
+}
+
+#blue:hover {
+  font-size: 20px;
+}
+
+#red {
+  color: red;
+  cursor: pointer;
+}
+
+#red:hover {
+  font-size: 20px;
+}
+
+#yellow {
+  color: yellow;
+  cursor: pointer;
+}
+
+#yellow:hover {
+  font-size: 20px;
+}
+
+#green {
+  color: green;
+  cursor: pointer;
+}
+
+#green:hover {
+  font-size: 20px;
+}
+
+#normal {
+  color: white;
+  cursor: pointer;
+}
+
+#normal:hover {
+  font-size: 20px;
+}
+
+.normal-background {
+  background: white;
+}
+
+.background-blue {
+  background: blue;
+}
+
+.background-red {
+  background: red;
+}
+
+.background-yellow {
+  background: yellow;
+}
+
+.background-green {
+  background: green;
+}
+
+.normal-background {
+  background: white;
+}
+/*# sourceMappingURL=style.css.map */
