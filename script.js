@@ -1,6 +1,5 @@
 // DOM
 
-let btnPlaatje = document.getElementsByClassName("btn");
 let btnBlue = document.getElementById("blue");
 let btnRed = document.getElementById("red");
 let btnYellow = document.getElementById("yellow");
@@ -48,4 +47,4 @@ btnBlue.addEventListener("click", blue);
 btnRed.addEventListener("click", red);
 btnYellow.addEventListener("click", yellow);
 btnGreen.addEventListener("click", green);
-btnWhite.addEventListener("click", white)
+btnWhite.addEventListener("click", white);
